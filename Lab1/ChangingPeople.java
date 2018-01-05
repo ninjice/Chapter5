@@ -1,4 +1,4 @@
-package Problem1;
+package Lab1;
 
 // **********************************************************************
 //   ChangingPeople.java
